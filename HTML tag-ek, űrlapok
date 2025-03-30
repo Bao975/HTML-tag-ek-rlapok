@@ -7,14 +7,194 @@
 </head>
 <body>
 
-    <p>
+<p>
     Lorem ipsum<br>sit amet consectetur, adipisicing elit.
     <u>Distinctio</u> <i>velit</i> vero suscipit.
     Natus saepe assumenda, totam minus non iure.
     <b>Recusandae</b> <strong> et temporibus illo inventore </strong>necessitatibus libero minus veritatis, eaque iure corrupti distinctio maiores sit error alias nam eos obcaecati quaerat est magnam esse quisquam sed beatae possimus.
-    Voluptate, vitae sapiente? Molestiae dignissimos, totam fugiat ipsa cupiditate voluptate, nisi facere deserunt beatae nam doloribus suntearum quae, obcaecati dolores.
-    Amet nemo dignissimos suscipit, magnam deleniti excepturi repellendus deserunt sunt quas, veniam quam, accusantium omnis laudantium tempora. Nemo ratione unde iste quaerat doloribus, ab nihil repudiandae maiores ea, ullam facilis sapiente quo!
-    </p>
+    <small>, vitae sapiente? Molestiae dignissimos,</small> totam fugiat ipsa cupiditate voluptate, nisi facere deserunt beatae nam doloribus suntearum quae, obcaecati dolores.
+    <s>Amet nemo </s>dignissimos suscipit, magnam deleniti excepturi repellendus deserunt sunt quas, veniam quam, accusantium omnis laudantium tempora.
+    Nemo ratione unde <sup> quaerat doloribus,</sup> ab nihil <sub>repudiandae maiores ea,</sub> ullam facilis sapiente quo!
+    <mark>Lorem ipsum dolor</mark> sit amet consectetur adipisicing elit.
+    Sit tenetur architecto fugit neque sapiente at a ut est?
+    Natus ab autem unde amet quia aperiam pariatur quo porro accusantium nemo, excepturi esse nesciunt qui exercitationem mollitia placeat iure, veritatis perferendis et quos modi doloremque ea veniam expedita?
+    Assumenda, fugit harum.
+</p>
+
+<hr>
+
+<blockquote cite="http://www.worldwildlife.org/who/index.html">
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+    Fugit eos illum corporis quasi reprehenderit nam magnam quaerat pariatur reiciendis molestiae vel ad ducimus ex aliquam perspiciatis,
+     error eveniet possimus officia.
+    </blockquote>
+
+<p>
+    Fugit perspiciatis sapiente laudantium ratione quia numquam perferendis facilis, qui necessitatibus, accusamus nobis neque nihil sed delectus voluptate?
+</p>
+
+<p>
+    MA reggel <time>08:00</time>-kor keltem.
+</p>
+
+<p>
+    <del>Totam quae delectus sit</del> <ins>enim praesentium quasi saepe voluptatibus.</ins>
+    Excepturi officia aspernatur ad ipsa iste libero laborum quaerat quas, necessitatibus temporibus ipsam ullam, nobis eum error tenetur, nostrum quisquam.
+    Beatae hic, repellat doloribus veritatis officiis dignissimos consectetur magnam alias minima, nobis nisi dicta provident mollitia tempore?
+    Omnis dolorum non nostrum illum eum.
+</p>
+
+<p>
+    <abbr title="Hypertext Markup Language">HTML</abbr>
+</p>
+
+<h1>Első címsor</h1>
+<h2>Második címsor</h2>
+<h3>Harmadik címsor</h3>
+<h4>Negyedik címsor</h4>
+<h5>Ötödik címsor</h5>
+<h6>Hatodik címsor</h6>
+
+<p>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo cupiditate mollitia architecto accusamus dolorem deserunt, explicabo asperiores facere quisquam maxime quis, quidem voluptates praesentium repudiandae cumque veniam! Odio non reiciendis, tempore quam veniam minus veritatis sunt, aliquam optio natus rerum porro vel magni quasi culpa a dignissimos voluptatibus repudiandae, reprehenderit rem. Dignissimos numquam aliquid earum placeat amet repudiandae, nobis minus architecto corporis aut quaerat perspiciatis rerum accusamus cum distinctio vero harum excepturi cumque quam aliquam velit possimus! Cumque quas magni eum asperiores ipsa dignissimos veniam distinctio laudantium perferendis iusto eveniet cum alias, voluptate doloremque illo, quidem aperiam tenetur tempore eaque.
+</p>
+
+
+<dl>
+    <dt>Kalapács</dt>
+    <dd>A kalapács az a szerszám ami mindig kéznél van.</dd>
+    <dt>Csavar</dt>
+    <dd>Csavar elemek rögzítésére szolgál.</dd>
+</dl>
+
+<ol type="a">
+    <li>piros</li>
+    <li>kék</li>
+    <li>sárga</li>
+</ol>
+
+<ul>
+    <li>piros</li>
+    <li>kék</li>
+    <li>sárga</li>
+</ul>
+
+
+<a href="https://retek.hu" target="blank">Egy retek weboldal.</a>
+
+<figure>
+    <img src="image.jpg" alt="Táj kép">
+    <figcaption>A kép címe...</figcaption>
+</figure>
+
+<p>
+    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nulla, est. Quos ratione aperiam vero? Iure magni vitae velit totam? Quia soluta, nam in blanditiis maxime nobis sit autem? Neque natus sunt doloribus, aliquid aperiam ducimus vitae temporibus quas necessitatibus explicabo inventore repellat, animi recusandae. Cum pariatur quaerat iure quia, incidunt blanditiis iste quos. Sed necessitatibus cumque ullam facilis unde asperiores tempore ex repellendus animi earum nobis, sunt eveniet voluptatum quod dolor ratione, reiciendis iure molestias.
+</p>
+
+
+<main>
+    Weboldalnak a tényleges tartalma.
+    Csak egy darab lehet.
+    Egyedi tartalommal kell rendelkeznie.
+</main>
+
+
+<nav>
+    Navigáció.
+</nav>
+
+<h1>Címsor</h1>
+
+<article>
+    <h2>Cikk címe...</h2>
+    <p>tartalma...</p>
+</article>
+
+<p>Budapesten jártam a nyáron.</p>
+
+<aside>
+    Budapest Magyarország fővárosa.
+</aside>
+
+<footer></footer>
+<header></header>
+
+
+<div></div>
+
+
+<h1>Űrlapok</h1>
+
+<form method="post">
+
+    <fieldset>
+        <legend>űrlap címe</legend>
+
+        <ul>
+            <li>
+                <input type="text">
+            </li>
+            <li>
+                <input type="email">
+            </li>
+            <li>
+                <input type="password">
+            </li>
+            <li>
+                <label for="phone">Telefonszám</label>
+                <input type="tel" id="phone">
+            </li>
+            <li>
+                <input type="file">
+            </li>
+            <li>
+                <label for="date">Dátum</label>
+                <input type="checkbox" id="date"> 
+            </li>
+            <li>
+                <label for="elso">Első</label><input type="radio" name="valassz" id="elso">
+                <label for="masodik"> Második</label> <input type="radio" name="valassz" id="masodik">
+                <label for="harmadik">Harmadik</label> <input type="radio" name="valassz" id="harmadik">
+            </li>
+            <li>
+                <input type="submit" value="felirat...">
+            </li>
+            <li>
+                <select>
+                    <option>piros</option>
+                    <option>kék</option>
+                    <option>sárga</option>
+                </select>
+            </li>
+            <li>
+                <select>
+                    <optgroup label="Németh autók">
+                        <option>Opel</option>
+                        <option>BMW</option>
+                    </optgroup>
+                    <optgroup label="Olasz autók">
+                        <option>Fiat</option>
+                        <option>Alfa Romeo</option>
+                    </optgroup>
+                </select>
+            </li>
+            <li>
+                <textarea></textarea>
+            </li>
+            <li>
+                <progress value="40" max="100"></progress>
+            </li>
+            <li>
+                <button>Gombocska</button>
+            </li>
+        </ul>
+
+    </fieldset>
+
+</form>
+
+
+
 
 </body>
 </html>
